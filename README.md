@@ -66,7 +66,7 @@ Hey, I'm **Abir**, an ECE student and a vibe coder
 
 Currently experimenting, and preparing to build.
 
-## // 05 — SOCIAL LINKS
+## // 05 — SOCIALS
 
 <p align="center">
   <a href="https://www.instagram.com/abir_jichkar/">
@@ -86,7 +86,7 @@ Currently experimenting, and preparing to build.
   </a>
 </p>
 
-## `// 06 — GITHUB STATS`
+## `// 06 —STATS`
 
 <p align="center">
   <i>Every expert was once a beginner.</i>
