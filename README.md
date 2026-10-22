@@ -73,8 +73,8 @@ Currently experimenting, and preparing to build.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=080B18&title_color=00E5FF&text_color=C9D1D9&icon_color=BD93F9" height="165" alt="GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=080B18&title_color=00E5FF&text_color=C9D1D9" height="165" alt="Most-used languages"/>
+  <img src="[https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME](https://github-readme-stats.vercel.app/api?username=Garnishedonion)&show_icons=true&hide_border=true&bg_color=080B18&title_color=00E5FF&text_color=C9D1D9&icon_color=BD93F9" height="165" alt="GitHub statistics"/>
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME](https://github-readme-stats.vercel.app/api?username=Garnishedonion)&layout=compact&hide_border=true&bg_color=080B18&title_color=00E5FF&text_color=C9D1D9" height="165" alt="Most-used languages"/>
 </p>
 
 ---
