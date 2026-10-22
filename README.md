@@ -17,16 +17,16 @@
 
 ---
 
-## `// 01 — ABOUT ME`
+## `// 01 —ME`
 
 > *"FACE THE MUSIC."*
 
-Hey, I'm **Abir Jichkar**, an ECE student
+Hey, I'm **Abir**, an ECE student and a vibe coder
 
 ```text
 ╭────────────────────────────────────╮
 │  USER      : ABIR JICHKAR           │
-│  ROLE      : ECE STUDENT            │
+│  ROLE      : ECE STUDENT,EDITOR     │
 │  STATUS    : LEARNING               │
 │  INTERESTS : CODE / HARDWARE / TECH │
 ╰────────────────────────────────────╯
