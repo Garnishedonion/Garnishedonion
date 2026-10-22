@@ -5,7 +5,7 @@
 <img src="./cyberpunk_city_animated_banner.gif" width="100%" alt="Animated neon cyberpunk city banner"/><img width="960" height="320" alt="cyberpunk_city_animated_banner (1)" src="https://github.com/user-attachments/assets/5ecb9e75-8828-4c46-b6ba-56270d0ad26b" />
 
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=600&lines=SYSTEM+ONLINE+%5BOK%5D;WELCOME+TO+MY+DIGITAL+DISTRICT;NOT+A+REPLICANT." alt="Animated terminal text"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=600&lines=ONLINE+%5BOK%5D;WELCOME;NOT+A+REPLICANT." alt="Animated terminal text"/>
 
 <br/>
 
