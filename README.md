@@ -1,39 +1,70 @@
-## Hi there ✨ Im Abir Jichkar
+Abir Jichkar
 
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@abir_jichkar) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/hellghost105) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/1212stoner) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@Hellghost-5745) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abirjichkar112@gmail.com) 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B18,50:241044,100:00D9FF&height=200&section=header&text=NEON%20DISTRICT&fontSize=48&fontColor=EAFBFF&fontAlignY=38&desc=ACCESSING%20THE%20DIGITAL%20FRONTIER&descAlignY=60&descSize=13" width="100%" alt="Neon cyan and purple futuristic header"/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Square Enix](https://img.shields.io/badge/SquareEnix-%23ED1C24.svg?style=for-the-badge&logo=SquareEnix&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Garnishedonion&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Garnishedonion&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Garnishedonion&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=600&lines=SYSTEM+ONLINE+%5BOK%5D;WELCOME+TO+MY+DIGITAL+WORLD;LEARNING.+BUILDING.+EXPLORING." alt="Animated futuristic welcome text"/>
+</a>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Garnishedonion&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<img src="https://images.unsplash.com/photo-1519501025264-65ba15a82390?auto=format&fit=crop&w=1400&q=85" width="100%" alt="City skyline at night"/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Garnishedonion&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+### `> WHO AM I?`
+
+*An ECE student exploring the intersection of code, electronics, and technology.*
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Garnishedonion&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --><!--
-**Garnishedonion/Garnishedonion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### `// ABOUT_ME`
 
-Here are some ideas to get you started:
+```text
+ USER       : ECE STUDENT
+ STATUS     : LEARNING MODE
+ INTERESTS  : CODE / ELECTRONICS / TECHNOLOGY
+ OBJECTIVE  : BUILD COOL THINGS
+ LOCATION   : CYBERSPACE
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Learning programming one step at a time.
+- Exploring electronics and communication technology.
+- Interested in how software and hardware work together.
+- Building my skills and working towards my first projects.
+
+### `// CURRENT_LOADOUT`
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-Currently%20Learning-00E5FF?style=for-the-badge&logo=c&logoColor=white" alt="C programming"/>
+  <img src="https://img.shields.io/badge/ECE-Electronics-9D4EDD?style=for-the-badge" alt="Electronics and communication engineering"/>
+  <img src="https://img.shields.io/badge/STATUS-EXPLORING-FF4DAD?style=for-the-badge" alt="Currently exploring"/>
+</p>
+
+### `// GITHUB_ACTIVITY`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=080B18&title_color=00E5FF&text_color=C9D1D9&icon_color=BD93F9" height="165" alt="GitHub statistics"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=080B18&title_color=00E5FF&text_color=C9D1D9" height="165" alt="Most-used programming languages"/>
+
+</div>
+
+### `// TRANSMISSION`
+
+```text
+The journey has just begun.
+More skills. More experiments. More projects.
+See you on the other side of the screen.
+```
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:241044,100:080B18&height=100&section=footer" width="100%" alt="Cyan and purple futuristic footer"/>
+
+<sub>END OF TRANSMISSION // KEEP EXPLORING</sub>
+
+</div>
