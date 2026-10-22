@@ -66,7 +66,27 @@ Hey, I'm **Abir Jichkar**, an ECE student
 
 Currently experimenting, and preparing to build.
 
-## `// 05 — GITHUB STATS`
+## // 05 — SOCIAL LINKS
+
+<p align="center">
+  <a href="https://www.instagram.com/abir_jichkar/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.youtube.com/@Hellghost-5745">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://www.reddit.com/user/1212stoner/">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
+  </a>
+  <a href="https://www.pinterest.com/hellghost105/">
+    <img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest"/>
+  </a>
+  <a href="mailto:abirjichkar112@gmail.com">
+    <img src="https://img.shields.io/badge/Email-00CFFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+## `// 06 — GITHUB STATS`
 
 <p align="center">
   <i>Every expert was once a beginner.</i>
