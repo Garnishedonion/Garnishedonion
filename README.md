@@ -17,7 +17,7 @@
 
 ---
 
-## `// 01 —ME`
+## `// 01 — ME`
 
 > *"FACE THE MUSIC."*
 
@@ -66,7 +66,30 @@ Hey, I'm **Abir**, an ECE student and a vibe coder
 
 Currently experimenting, and preparing to build.
 
-## // 05 — SOCIALS
+## `//  05 — ACHIEVEMENT VAULT `
+
+
+<h2 align="center">🏆 ACHIEVEMENT VAULT</h2>
+<p align="center">
+  <code>// MILESTONES UNLOCKED</code>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GITHUB-EXPLORER-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/STATUS-IN_PROGRESS-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ECE-ENGINEER_IN_TRAINING-FF00FF?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Garnishedonion&theme=onestar&no-frame=true&no-bg=true&margin-w=10&column=3" width="100%" alt="GitHub achievement trophies" />
+</p>
+
+<p align="center">
+  <code>BUILD // LEARN // CREATE // REPEAT</code>
+</p>
+
+
+## // 06 — SOCIALS
 
 <p align="center">
   <a href="https://www.instagram.com/abir_jichkar/">
@@ -86,7 +109,7 @@ Currently experimenting, and preparing to build.
   </a>
 </p>
 
-## `// 06 —STATS`
+## `// 07 —STATS`
 
 <p align="center">
   <i>Every expert was once a beginner.</i>
