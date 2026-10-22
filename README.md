@@ -26,9 +26,8 @@ Hey, I'm **Abir Jichkar**, an ECE student
 ╭────────────────────────────────────╮
 │  USER      : ABIR JICHKAR           │
 │  ROLE      : ECE STUDENT            │
-│  STATUS    : LEARNING MODE          │
+│  STATUS    : LEARNING               │
 │  INTERESTS : CODE / HARDWARE / TECH │
-│  OBJECTIVE : BUILD SOMETHING COOL   │
 ╰────────────────────────────────────╯
 ```
 
