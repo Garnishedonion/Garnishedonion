@@ -20,7 +20,7 @@
 
 > *"Small steps. Big plans."*
 
-Hey, I'm **Abir Jichkar**, an Electronics and Communication Engineering student exploring the world of technology.
+Hey, I'm **Abir Jichkar**, an ECE student
 
 ```text
 ╭────────────────────────────────────╮
@@ -32,9 +32,8 @@ Hey, I'm **Abir Jichkar**, an Electronics and Communication Engineering student 
 ╰────────────────────────────────────╯
 ```
 
-- Learning C programming and strengthening my fundamentals.
-- Exploring electronics and communication technology.
-- Interested in PC hardware, gaming, and technology.
+- Learning C programming. 
+- Interested in editing, gaming, and technology.
 - Working towards building my own projects.
 
 ## `// 02 — TECH STACK`
@@ -65,7 +64,7 @@ Hey, I'm **Abir Jichkar**, an Electronics and Communication Engineering student 
   <img src="https://img.shields.io/badge/PROJECTS-LOADING...-00E5FF?style=for-the-badge" alt="Projects coming soon"/>
 </p>
 
-Currently learning, experimenting, and preparing to build. This section will grow as I complete real projects.
+Currently experimenting, and preparing to build.
 
 ## `// 05 — GITHUB STATS`
 
