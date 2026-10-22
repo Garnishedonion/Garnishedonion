@@ -1,3 +1,4 @@
+<img width="960" height="320" alt="cyberpunk_city_animated_banner (1)" src="https://github.com/user-attachments/assets/2057e0de-9ae3-4c70-bdca-312521699230" />
 
 <div align="center">
 
