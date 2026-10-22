@@ -81,7 +81,7 @@ Currently experimenting, and preparing to build.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:241044,100:080B18&height=120&section=footer" width="100%" alt="Neon footer"/>
 
-### `KEEP EXPLORING // KEEP BUILDING // KEEP LEARNING`
+### ` WHY // WHAT // HOW `
 
 <sub>END OF TRANSMISSION · ABIR JICHKAR</sub>
 
