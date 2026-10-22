@@ -1,70 +1,91 @@
-Abir Jichkar
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B18,50:241044,100:00D9FF&height=200&section=header&text=NEON%20DISTRICT&fontSize=48&fontColor=EAFBFF&fontAlignY=38&desc=ACCESSING%20THE%20DIGITAL%20FRONTIER&descAlignY=60&descSize=13" width="100%" alt="Neon cyan and purple futuristic header"/>
+<img src="./cyberpunk_city_animated_banner.gif" width="100%" alt="Animated neon cyberpunk city banner"/><img width="960" height="320" alt="cyberpunk_city_animated_banner (1)" src="https://github.com/user-attachments/assets/5ecb9e75-8828-4c46-b6ba-56270d0ad26b" />
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=600&lines=SYSTEM+ONLINE+%5BOK%5D;WELCOME+TO+MY+DIGITAL+WORLD;LEARNING.+BUILDING.+EXPLORING." alt="Animated futuristic welcome text"/>
-</a>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=600&lines=SYSTEM+ONLINE+%5BOK%5D;WELCOME+TO+MY+DIGITAL+DISTRICT;LEARN.+BUILD.+EXPLORE." alt="Animated terminal text"/>
 
 <br/>
 
-<img src="https://images.unsplash.com/photo-1519501025264-65ba15a82390?auto=format&fit=crop&w=1400&q=85" width="100%" alt="City skyline at night"/>
-
-### `> WHO AM I?`
-
-*An ECE student exploring the intersection of code, electronics, and technology.*
+<img src="https://img.shields.io/badge/ECE-STUDENT-00E5FF?style=for-the-badge" alt="ECE student"/>
+<img src="https://img.shields.io/badge/STATUS-LEARNING-9D4EDD?style=for-the-badge" alt="Learning"/>
+<img src="https://img.shields.io/badge/LOCATION-INDIA-FF4DAD?style=for-the-badge" alt="India"/>
 
 </div>
 
 ---
 
-### `// ABOUT_ME`
+## `// 01 — ABOUT ME`
+
+> *"Small steps. Big plans."*
+
+Hey, I'm **Abir Jichkar**, an Electronics and Communication Engineering student exploring the world of technology.
 
 ```text
- USER       : ECE STUDENT
- STATUS     : LEARNING MODE
- INTERESTS  : CODE / ELECTRONICS / TECHNOLOGY
- OBJECTIVE  : BUILD COOL THINGS
- LOCATION   : CYBERSPACE
+╭────────────────────────────────────╮
+│  USER      : ABIR JICHKAR           │
+│  ROLE      : ECE STUDENT            │
+│  STATUS    : LEARNING MODE          │
+│  INTERESTS : CODE / HARDWARE / TECH │
+│  OBJECTIVE : BUILD SOMETHING COOL   │
+╰────────────────────────────────────╯
 ```
 
-- Learning programming one step at a time.
+- Learning C programming and strengthening my fundamentals.
 - Exploring electronics and communication technology.
-- Interested in how software and hardware work together.
-- Building my skills and working towards my first projects.
+- Interested in PC hardware, gaming, and technology.
+- Working towards building my own projects.
 
-### `// CURRENT_LOADOUT`
+## `// 02 — TECH STACK`
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-Currently%20Learning-00E5FF?style=for-the-badge&logo=c&logoColor=white" alt="C programming"/>
-  <img src="https://img.shields.io/badge/ECE-Electronics-9D4EDD?style=for-the-badge" alt="Electronics and communication engineering"/>
-  <img src="https://img.shields.io/badge/STATUS-EXPLORING-FF4DAD?style=for-the-badge" alt="Currently exploring"/>
+  <img src="https://skillicons.dev/icons?i=c,git,github,vscode,arduino,linux&theme=dark" alt="Technology icons"/>
 </p>
 
-### `// GITHUB_ACTIVITY`
+<p align="center">
+  <img src="https://img.shields.io/badge/C-LEARNING-00E5FF?style=flat-square&logo=c&logoColor=white" alt="Learning C"/>
+  <img src="https://img.shields.io/badge/ELECTRONICS-EXPLORING-9D4EDD?style=flat-square" alt="Exploring electronics"/>
+  <img src="https://img.shields.io/badge/PROJECTS-IN%20PROGRESS-FF4DAD?style=flat-square" alt="Projects in progress"/>
+</p>
+
+## `// 03 — INTERESTS`
+
+<table>
+  <tr>
+    <td align="center">⚡<br/><b>Electronics</b><br/>Circuits & Components</td>
+    <td align="center">💻<br/><b>PC Technology</b><br/>Hardware & Systems</td>
+    <td align="center">🎮<br/><b>Gaming</b><br/>Games & Performance</td>
+  </tr>
+</table>
+
+## `// 04 — PROJECT DATABASE`
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PROJECTS-LOADING...-00E5FF?style=for-the-badge" alt="Projects coming soon"/>
+</p>
+
+Currently learning, experimenting, and preparing to build. This section will grow as I complete real projects.
+
+## `// 05 — GITHUB STATS`
+
+<p align="center">
+  <i>Every expert was once a beginner.</i>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=080B18&title_color=00E5FF&text_color=C9D1D9&icon_color=BD93F9" height="165" alt="GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=080B18&title_color=00E5FF&text_color=C9D1D9" height="165" alt="Most-used languages"/>
+</p>
+
+---
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=080B18&title_color=00E5FF&text_color=C9D1D9&icon_color=BD93F9" height="165" alt="GitHub statistics"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:241044,100:080B18&height=120&section=footer" width="100%" alt="Neon footer"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=080B18&title_color=00E5FF&text_color=C9D1D9" height="165" alt="Most-used programming languages"/>
+### `KEEP EXPLORING // KEEP BUILDING // KEEP LEARNING`
 
-</div>
-
-### `// TRANSMISSION`
-
-```text
-The journey has just begun.
-More skills. More experiments. More projects.
-See you on the other side of the screen.
-```
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:241044,100:080B18&height=100&section=footer" width="100%" alt="Cyan and purple futuristic footer"/>
-
-<sub>END OF TRANSMISSION // KEEP EXPLORING</sub>
+<sub>END OF TRANSMISSION · ABIR JICHKAR</sub>
 
 </div>
