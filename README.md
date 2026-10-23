@@ -24,12 +24,12 @@
 Hey, I'm **Abir**, an ECE student and a vibe coder
 
 ```text
-╭───────────────────────────────╮
+╭─────────────────────────────────────╮
 │  USER      : ABIR JICHKAR           │
 │  ROLE      : ECE STUDENT,EDITOR     │
 │  STATUS    : LEARNING               │
 │  INTERESTS : CODE / HARDWARE / TECH │
-╰───────────────────────────────╯
+╰─────────────────────────────────────╯
 ```
 
 - Learning C programming. 
