@@ -54,7 +54,7 @@ Hey, I'm **Abir**, an ECE student and a vibe coder
   <tr>
     <td align="center">⚡<br/><b>Electronics</b><br/>Circuits & Components</td>
     <td align="center">💻<br/><b>PC Technology</b><br/>Hardware & Systems</td>
-    <td align="center">🎮<br/><b>Gaming</b><br/>Games & Performance</td>
+    <td align="center">📼<br/><b>editing</b><br/>videography & editing</td>
   </tr>
 </table>
 
