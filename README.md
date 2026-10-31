@@ -98,9 +98,7 @@ Hey, I'm **Abir**, an ECE student and a vibe coder.
   <img src="https://img.shields.io/badge/ECE-ENGINEER_IN_TRAINING-FF00FF?style=for-the-badge" alt="Engineer in training" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Garnishedonion&theme=onestar&no-frame=true&no-bg=true&margin-w=10&column=3" width="100%" alt="GitHub achievement trophies" />
-</p>
+
 
 <p align="center"><code>BUILD // LEARN // CREATE // REPEAT</code></p>
 
