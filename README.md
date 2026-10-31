@@ -90,7 +90,6 @@ Hey, I'm **Abir**, an ECE student and a vibe coder.
 
 ## `// 05 — ACHIEVEMENT VAULT`
 
-<p align="center"><code>// MILESTONES </code></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/GITHUB-EXPLORER-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Explorer" />
