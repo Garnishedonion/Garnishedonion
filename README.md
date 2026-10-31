@@ -1,7 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://github.com/user-attachments/assets/5ecb9e75-8828-4c46-b6ba-56270d0ad26b" alt="Neon cyberpunk city banner" />
-
+<img width="100%" src="./file_00000000394c82088a24bfb40af04233.jpg" alt="Neon cyberpunk city banner" />
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=600&lines=ONLINE+%5BOK%5D;WELCOME;NOT+A+REPLICANT." alt="Animated terminal text" />
