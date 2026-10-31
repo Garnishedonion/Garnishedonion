@@ -1,68 +1,151 @@
-"01 — ABIR JICHKAR"
+<div align="center">
+
+<img width="960" height="320" src="https://github.com/user-attachments/assets/5ecb9e75-8828-4c46-b6ba-56270d0ad26b" alt="Neon cyberpunk city banner" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=600&lines=ONLINE+%5BOK%5D;WELCOME;NOT+A+REPLICANT." alt="Animated terminal text" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/ECE-STUDENT-00E5FF?style=for-the-badge" alt="ECE student" />
+<img src="https://img.shields.io/badge/STATUS-LEARNING-9D4EDD?style=for-the-badge" alt="Learning" />
+<img src="https://img.shields.io/badge/LOCATION-INDIA-FF4DAD?style=for-the-badge" alt="India" />
+
+<br/><br/>
+
+# ABIR JICHKAR
+
+### ENGINEERING THE FUTURE
+
+`ECE STUDENT // TECHNOLOGY ENTHUSIAST`
+
+<br/>
+
+<img src="https://img.shields.io/badge/C_PROGRAMMING-00E5FF?style=flat-square&logo=c&logoColor=white" alt="C Programming" />
+<img src="https://img.shields.io/badge/ELECTRONICS-9D4EDD?style=flat-square" alt="Electronics" />
+<img src="https://img.shields.io/badge/LINUX-39FF14?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+
+<br/>
+
+`[ SYSTEM ONLINE ] — [ BUILD // LEARN // CREATE ]`
+
+</div>
+
+---
+
+## `// 01 — ME`
+
+> *"FACE THE MUSIC."*
+
+Hey, I'm **Abir**, an ECE student and a vibe coder.
+
+```text
+╭──────────────────────────────────────╮
+│  USER      : ABIR JICHKAR            │
+│  ROLE      : ECE STUDENT, EDITOR     │
+│  STATUS    : LEARNING                │
+│  INTERESTS : CODE / EDITING / TECH   │
+╰──────────────────────────────────────╯
+```
+
+- 🔹 Learning C programming
+- 🔹 Interested in editing, gaming, and technology
+- 🔹 Working towards building my own projects
+
+---
+
+## `// 02 — TECH STACK`
 
 <p align="center">
-  <img src="./assets/profile-hero.png" width="100%" alt="Abir Jichkar — Engineering the Future" />
-</p><h2 align="center">01 // ABOUT ME</h2><p align="center">
-  ECE student exploring the intersection of electronics, programming and technology.
-  <br/>
-  Interested in understanding how things work, building practical projects and experimenting with new ideas.
-</p><p align="center">
-  <img src="https://img.shields.io/badge/STATUS-LEARNING-00D9F5?style=for-the-badge&labelColor=080B18" />
-  <img src="https://img.shields.io/badge/ROLE-ECE%20STUDENT-C58BFF?style=for-the-badge&labelColor=080B18" />
-  <img src="https://img.shields.io/badge/LOCATION-INDIA-20C997?style=for-the-badge&labelColor=080B18" />
-</p>---
+  <img src="https://skillicons.dev/icons?i=c,git,github,vscode,arduino,linux&theme=dark" alt="Technology icons" />
+</p>
 
-<h2 align="center">02 // TECH STACK</h2><p align="center">
-  <img src="https://skillicons.dev/icons?i=c,git,github,vscode,arduino,linux&theme=dark" />
-</p><p align="center">
-  <img src="https://img.shields.io/badge/C-Programming-00D9F5?style=flat-square&labelColor=080B18" />
-  <img src="https://img.shields.io/badge/Electronics-Engineering-C58BFF?style=flat-square&labelColor=080B18" />
-  <img src="https://img.shields.io/badge/Linux-Exploration-20C997?style=flat-square&labelColor=080B18" />
-</p>---
-
-<h2 align="center">03 // INTERESTS</h2>- Electronics & Communication — circuits, embedded systems and communication technology.
-- PC Technology — hardware, processors, graphics and computer architecture.
-- Programming — learning C and exploring software development.
-- Digital Editing — video editing and creative visual projects.
-- Linux — experimenting with operating systems and open-source tools.
+<p align="center">
+  <img src="https://img.shields.io/badge/C-LEARNING-00E5FF?style=flat-square&logo=c&logoColor=white" alt="Learning C" />
+  <img src="https://img.shields.io/badge/ELECTRONICS-EXPLORING-9D4EDD?style=flat-square" alt="Exploring electronics" />
+  <img src="https://img.shields.io/badge/PROJECTS-IN%20PROGRESS-FF4DAD?style=flat-square" alt="Projects in progress" />
+</p>
 
 ---
 
-<h2 align="center">04 // PROJECT DATABASE</h2>Project| Description| Status
-Jarvis Mini| Concept for a low-cost voice-controlled assistant| Planning
-More projects| More experiments coming soon| Pending
+## `// 03 — INTERESTS`
+
+<table align="center">
+  <tr>
+    <td align="center">⚡<br/><b>Electronics</b><br/>Circuits &amp; Components</td>
+    <td align="center">💻<br/><b>PC Technology</b><br/>Hardware &amp; Systems</td>
+    <td align="center">📼<br/><b>Editing</b><br/>Videography &amp; Editing</td>
+  </tr>
+</table>
 
 ---
 
-<h2 align="center">05 // ACHIEVEMENT VAULT</h2><p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Garnishedonion&theme=onestar&no-frame=true&no-bg=true&margin-w=10&column=3" width="90%" />
-</p>---
+## `// 04 — PROJECT DATABASE`
 
-<h2 align="center">06 // SOCIAL CONNECTIONS</h2><p align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/PROJECTS-LOADING...-00E5FF?style=for-the-badge" alt="Projects coming soon" />
+</p>
+
+<p align="center"><i>Currently experimenting and preparing to build.</i></p>
+
+---
+
+## `// 05 — ACHIEVEMENT VAULT`
+
+<p align="center"><code>// MILESTONES UNLOCKED</code></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GITHUB-EXPLORER-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Explorer" />
+  <img src="https://img.shields.io/badge/STATUS-IN_PROGRESS-8A2BE2?style=for-the-badge" alt="In progress" />
+  <img src="https://img.shields.io/badge/ECE-ENGINEER_IN_TRAINING-FF00FF?style=for-the-badge" alt="Engineer in training" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Garnishedonion&theme=onestar&no-frame=true&no-bg=true&margin-w=10&column=3" width="100%" alt="GitHub achievement trophies" />
+</p>
+
+<p align="center"><code>BUILD // LEARN // CREATE // REPEAT</code></p>
+
+---
+
+## `// 06 — SOCIALS`
+
+<p align="center">
   <a href="https://www.instagram.com/abir_jichkar/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://www.youtube.com/@Hellghost-5745">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="https://www.reddit.com/user/1212stoner/">
-    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
   </a>
   <a href="https://www.pinterest.com/hellghost105/">
-    <img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" />
+    <img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest" />
   </a>
   <a href="mailto:abirjichkar112@gmail.com">
-    <img src="https://img.shields.io/badge/Email-00D9F5?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-00CFFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>---
-
-<h2 align="center">07 // SYSTEM STATISTICS</h2><p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Garnishedonion&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080B18&title_color=00D9F5&icon_color=C58BFF&text_color=8995B0" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garnishedonion&layout=compact&theme=tokyonight&hide_border=true&bg_color=080B18&title_color=00D9F5&text_color=8995B0" />
-</p><p align="center">
-  <img src="https://streak-stats.demolab.com?user=Garnishedonion&theme=tokyonight&hide_border=true&background=080B18&ring=00D9F5&fire=C58BFF&currStreakLabel=00D9F5" width="90%" />
-</p><p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:241044,100:080B18&height=120&section=footer" width="100%" />
-</p><p align="center">
-  <code>[ SYSTEM ONLINE ] — [ BUILD // LEARN // CREATE ]</code>
 </p>
+
+---
+
+## `// 07 — STATS`
+
+<p align="center"><i>Every expert was once a beginner.</i></p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Garnishedonion&show_icons=true&theme=tokyonight" height="160" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garnishedonion&layout=compact&theme=tokyonight" height="160" alt="Top languages" />
+</p>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:241044,100:080B18&height=120&section=footer" width="100%" alt="Neon footer" />
+
+<sub>END OF TRANSMISSION · ABIR JICHKAR</sub>
+
+</div>
