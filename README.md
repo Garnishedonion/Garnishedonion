@@ -17,7 +17,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=3000&pause=100000&color=C792FF&center=true&vCenter=true&width=700&height=50&lines=ENGINEERING+THE+FUTURE" alt="Engineering the future" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=100000&color=8B93A7&center=true&vCenter=true&width=700&height=40&lines=ECE+STUDENT+%2F%2F+TECHNOLOGY+ENTHUSIAST" alt="ECE student, technology enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=100000&color=8B93A7&center=true&vCenter=true&width=700&height=40&lines=ECE+STUDENT+%2F%2F+TECH+ENTHUSIAST" alt="ECE student, tech enthusiast" />
 
 <br/>
 
@@ -90,7 +90,7 @@ Hey, I'm **Abir**, an ECE student and a vibe coder.
 
 ## `// 05 — ACHIEVEMENT VAULT`
 
-<p align="center"><code>// MILESTONES UNLOCKED</code></p>
+<p align="center"><code>// MILESTONES </code></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/GITHUB-EXPLORER-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Explorer" />
@@ -138,6 +138,19 @@ Hey, I'm **Abir**, an ECE student and a vibe coder.
 </p>
 
 ---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:241044,100:080B18&height=120&section=footer" width="100%" alt="Neon footer" />
+
+
+<p align="center"><code>// SOMEONE:</code></p>
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random programming quote" />
+</p>
+
+───
 
 <div align="center">
 
