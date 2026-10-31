@@ -13,21 +13,19 @@
 
 <br/><br/>
 
-# ABIR JICHKAR
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=34&duration=3000&pause=100000&color=00D9FF&center=true&vCenter=true&width=700&height=60&lines=ABIR+JICHKAR" alt="ABIR JICHKAR" />
 
-### ENGINEERING THE FUTURE
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=3000&pause=100000&color=C792FF&center=true&vCenter=true&width=700&height=50&lines=ENGINEERING+THE+FUTURE" alt="Engineering the future" />
 
-`ECE STUDENT // TECHNOLOGY ENTHUSIAST`
-
-<br/>
-
-<img src="https://img.shields.io/badge/C_PROGRAMMING-00E5FF?style=flat-square&logo=c&logoColor=white" alt="C Programming" />
-<img src="https://img.shields.io/badge/ELECTRONICS-9D4EDD?style=flat-square" alt="Electronics" />
-<img src="https://img.shields.io/badge/LINUX-39FF14?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=100000&color=8B93A7&center=true&vCenter=true&width=700&height=40&lines=ECE+STUDENT+%2F%2F+TECHNOLOGY+ENTHUSIAST" alt="ECE student, technology enthusiast" />
 
 <br/>
 
-`[ SYSTEM ONLINE ] — [ BUILD // LEARN // CREATE ]`
+<img src="https://img.shields.io/badge/C_PROGRAMMING-12294D?style=for-the-badge&logo=c&logoColor=58A6FF" alt="C Programming" />
+<img src="https://img.shields.io/badge/ELECTRONICS-2B1B4D?style=for-the-badge&logoColor=C792FF" alt="Electronics" />
+<img src="https://img.shields.io/badge/LINUX-0F3D2A?style=for-the-badge&logo=linux&logoColor=2ECC71" alt="Linux" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=100000&color=00E5FF&center=true&vCenter=true&width=700&height=40&lines=%5B+SYSTEM+ONLINE+%5D+%E2%80%94+%5B+BUILD+%2F%2F+LEARN+%2F%2F+CREATE+%5D" alt="System online" />
 
 </div>
 
@@ -148,4 +146,3 @@ Hey, I'm **Abir**, an ECE student and a vibe coder.
 <sub>END OF TRANSMISSION · ABIR JICHKAR</sub>
 
 </div>
-<img width="1536" height="864" alt="1000463980" src="https://github.com/user-attachments/assets/e9e2e0da-02de-4a92-8655-0921f54ffd97" />
