@@ -133,26 +133,12 @@ Hey, I'm **Abir**, an ECE student and a vibe coder.
 <p align="center"><i>Every expert was once a beginner.</i></p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Garnishedonion&show_icons=true&theme=tokyonight" height="160" alt="GitHub stats" />
-
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garnishedonion&layout=compact&theme=tokyonight" height="160" alt="Top languages" />
-</p>
-
----
-
-<div align="center">
-
-
-
-
-<p align="center"><code>// SOMEONE:</code></p>
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random programming quote" />
+<img src="https://streak-stats.demolab.com/?user=Garnishedonion&theme=tokyonight&hide_border=true" height="160" alt="GitHub streak stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garnishedonion&layout=compact&theme=tokyonight" height="160" alt="Top languages" />
 </p>
 
 ───
+
 
 <div align="center">
 
