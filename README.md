@@ -1,6 +1,6 @@
 <div align="center">
 
-<<img width="960" height="320" src="YOUR_NEW_IMAGE_LINK" />
+<img width="100%" src="https://github.com/user-attachments/assets/5ecb9e75-8828-4c46-b6ba-56270d0ad26b" alt="Neon cyberpunk city banner" />
 
 <br/>
 
@@ -41,12 +41,12 @@
 Hey, I'm **Abir**, an ECE student and a vibe coder.
 
 ```text
-╭──────────────────────────────────────╮
-│  USER      : ABIR JICHKAR            │
-│  ROLE      : ECE STUDENT, EDITOR     │
-│  STATUS    : LEARNING                │
-│  INTERESTS : CODE / EDITING / TECH   │
-╰──────────────────────────────────────╯
++--------------------------------------+
+|  USER      : ABIR JICHKAR            |
+|  ROLE      : ECE STUDENT, EDITOR     |
+|  STATUS    : LEARNING                |
+|  INTERESTS : CODE / EDITING / TECH   |
++--------------------------------------+
 ```
 
 - 🔹 Learning C programming
@@ -149,3 +149,4 @@ Hey, I'm **Abir**, an ECE student and a vibe coder.
 <sub>END OF TRANSMISSION · ABIR JICHKAR</sub>
 
 </div>
+<img width="1536" height="864" alt="1000463980" src="https://github.com/user-attachments/assets/e9e2e0da-02de-4a92-8655-0921f54ffd97" />
