@@ -141,7 +141,7 @@ Hey, I'm **Abir**, an ECE student and a vibe coder.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:241044,100:080B18&height=120&section=footer" width="100%" alt="Neon footer" />
+
 
 
 <p align="center"><code>// SOMEONE:</code></p>
