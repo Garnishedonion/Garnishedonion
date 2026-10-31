@@ -1,9 +1,6 @@
-
-
 <div align="center">
 
-<img src="./cyberpunk_city_animated_banner.gif" width="100%" alt="Animated neon cyberpunk city banner"/><img width="960" height="320"  src="https://github.com/user-attachments/assets/5ecb9e75-8828-4c46-b6ba-56270d0ad26b" />
-
+<img width="960" height="320" src="https://github.com/user-attachments/assets/5ecb9e75-8828-4c46-b6ba-56270d0ad26b" alt="Animated neon cyberpunk city banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=600&lines=ONLINE+%5BOK%5D;WELCOME;NOT+A+REPLICANT." alt="Animated terminal text"/>
 
@@ -21,18 +18,18 @@
 
 > *"FACE THE MUSIC."*
 
-Hey, I'm **Abir**, an ECE student and a vibe coder
+Hey, I'm **Abir**, an ECE student and a vibe coder.
 
 ```text
 ╭─────────────────────────────────────╮
-│  USER      : ABIR JICHKAR                  │
-│  ROLE      : ECE STUDENT,EDITOR            │
-│  STATUS    : LEARNING                      │
-│  INTERESTS : CODE / EDITING / TECH.        │
+│  USER      : ABIR JICHKAR           │
+│  ROLE      : ECE STUDENT, EDITOR    │
+│  STATUS    : LEARNING               │
+│  INTERESTS : CODE / EDITING / TECH  │
 ╰─────────────────────────────────────╯
 ```
 
-- Learning C programming. 
+- Learning C programming.
 - Interested in editing, gaming, and technology.
 - Working towards building my own projects.
 
@@ -54,7 +51,7 @@ Hey, I'm **Abir**, an ECE student and a vibe coder
   <tr>
     <td align="center">⚡<br/><b>Electronics</b><br/>Circuits & Components</td>
     <td align="center">💻<br/><b>PC Technology</b><br/>Hardware & Systems</td>
-    <td align="center">📼<br/><b>editing</b><br/>videography & editing</td>
+    <td align="center">📼<br/><b>Editing</b><br/>Videography & Editing</td>
   </tr>
 </table>
 
@@ -66,30 +63,27 @@ Hey, I'm **Abir**, an ECE student and a vibe coder
 
 Currently experimenting, and preparing to build.
 
-## `//  05 — ACHIEVEMENT VAULT `
+## `// 05 — ACHIEVEMENT VAULT`
 
-
-<h2 align="center">🏆 ACHIEVEMENT VAULT</h2>
 <p align="center">
   <code>// MILESTONES UNLOCKED</code>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GITHUB-EXPLORER-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/STATUS-IN_PROGRESS-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ECE-ENGINEER_IN_TRAINING-FF00FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GITHUB-EXPLORER-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub explorer"/>
+  <img src="https://img.shields.io/badge/STATUS-IN_PROGRESS-8A2BE2?style=for-the-badge" alt="In progress"/>
+  <img src="https://img.shields.io/badge/ECE-ENGINEER_IN_TRAINING-FF00FF?style=for-the-badge" alt="Engineer in training"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Garnishedonion&theme=onestar&no-frame=true&no-bg=true&margin-w=10&column=3" width="100%" alt="GitHub achievement trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Garnishedonion&theme=onestar&no-frame=true&no-bg=true&margin-w=10&column=3" width="100%" alt="GitHub achievement trophies"/>
 </p>
 
 <p align="center">
   <code>BUILD // LEARN // CREATE // REPEAT</code>
 </p>
 
-
-## // 06 — SOCIALS
+## `// 06 — SOCIALS`
 
 <p align="center">
   <a href="https://www.instagram.com/abir_jichkar/">
@@ -109,23 +103,24 @@ Currently experimenting, and preparing to build.
   </a>
 </p>
 
-## `// 07 —STATS`
+## `// 07 — STATS`
 
 <p align="center">
   <i>Every expert was once a beginner.</i>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Garnishedonion&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garnishedonion&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Garnishedonion&show_icons=true&theme=tokyonight" height="160" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garnishedonion&layout=compact&theme=tokyonight" height="160" alt="Top languages"/>
 </p>
+
 ---
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:241044,100:080B18&height=120&section=footer" width="100%" alt="Neon footer"/>
 
-### ` Voilà! `
+### `Voilà!`
 
 <sub>END OF TRANSMISSION · ABIR JICHKAR</sub>
 
