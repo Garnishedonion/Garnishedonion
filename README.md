@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="960" height="320" src="https://github.com/user-attachments/assets/5ecb9e75-8828-4c46-b6ba-56270d0ad26b" alt="Neon cyberpunk city banner" />
+<<img width="960" height="320" src="YOUR_NEW_IMAGE_LINK" />
 
 <br/>
 
