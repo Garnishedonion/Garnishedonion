@@ -28,7 +28,7 @@ Hey, I'm **Abir**, an ECE student and a vibe coder
 │  USER      : ABIR JICHKAR                  │
 │  ROLE      : ECE STUDENT,EDITOR            │
 │  STATUS    : LEARNING                      │
-│  INTERESTS : CODE / HARDWARE / TECH.       │
+│  INTERESTS : CODE / EDITING / TECH.        │
 ╰─────────────────────────────────────╯
 ```
 
